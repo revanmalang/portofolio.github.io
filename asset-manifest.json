@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portofolio.github.io/static/css/main.17a643d0.css",
+    "main.js": "/portofolio.github.io/static/js/main.44f3d6df.js",
+    "static/media/Moch revano budiansyah_CV.pdf": "/portofolio.github.io/static/media/Moch revano budiansyah_CV.36537dff1a51d07aa829.pdf",
+    "static/media/news.png": "/portofolio.github.io/static/media/news.51439179fb611dbbc400.png",
+    "static/media/shelter.png": "/portofolio.github.io/static/media/shelter.0ae0fda60971cc0e12a4.png",
+    "static/media/fake.png": "/portofolio.github.io/static/media/fake.8e617936ab1f7320886e.png",
+    "static/media/todo.png": "/portofolio.github.io/static/media/todo.5bff4a5396a3b8a42ced.png",
+    "static/media/me.png": "/portofolio.github.io/static/media/me.d464d8585c7a3eb892f7.png",
+    "static/media/math.png": "/portofolio.github.io/static/media/math.dda088e8d9f35030227c.png",
+    "static/media/bookstore.png": "/portofolio.github.io/static/media/bookstore.9ccca64e16bf562c3108.png",
+    "index.html": "/portofolio.github.io/index.html",
+    "main.17a643d0.css.map": "/portofolio.github.io/static/css/main.17a643d0.css.map",
+    "main.44f3d6df.js.map": "/portofolio.github.io/static/js/main.44f3d6df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17a643d0.css",
+    "static/js/main.44f3d6df.js"
+  ]
+}
